@@ -1,5 +1,1 @@
-[
-  { "name": "1-cover.jpg", "query": "?shot=cover&photo=pier&caption=Sunset%20Heist", "w": 1080, "h": 1080 },
-  { "name": "2-editor.jpg", "query": "?shot=editor&photo=boulevard&caption=Boulevard%20Queen", "w": 1280, "h": 720 },
-  { "name": "3-cover.jpg", "query": "?shot=cover&photo=boulevard&caption=Boulevard%20Queen", "w": 1080, "h": 1080 }
-]
+[{"h":720,"name":"1-cover.jpg","query":"?shot=cover&photo=pier&caption=VICE%20GRID&subcaption=LEONIDA%20%E2%80%A2%202026&layout=cover-story&grade=sunset&size=1920x1080","w":1280},{"h":800,"name":"2-editor.jpg","query":"?shot=editor&photo=boulevard&caption=Boulevard%20Queen&subcaption=VICE%20CITY%20NIGHTS&layout=triptych&grade=neon&size=1080x1080","w":1280},{"h":1024,"name":"3-cover-square.jpg","query":"?shot=cover&photo=boulevard&caption=VICE%20CITY&subcaption=SIX%20PANELS%20ONE%20STORY&layout=six-pack&grade=palm&size=1080x1080","w":1024},{"h":1280,"name":"4-cover-portrait.jpg","query":"?shot=cover&photo=pier&caption=Sunset%20Heist&subcaption=THE%20CREW%20IS%20BACK&layout=hero-strip&grade=noir&size=1080x1350","w":1024}]

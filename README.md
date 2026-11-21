@@ -1,3 +1,5 @@
+![gta6-cover-art-02](assets/preview.png)
+
 # gta6-cover-art-02
 
 A GTA 6 cover art maker and editor that runs in the browser, built as a
